@@ -21,9 +21,11 @@ const About = () => {
             I'm a skilled software developer with a passion for creating exceptional user experiences.<br/>
             With a strong background in React, Node.js, MongoDB, and Python, I bring over 2 years of experience in developing and maintaining websites and applications.<br/><br/>
             I hold a Diploma in Computer Science from BCIT.<br/>
+            </p>
+            <p className='hidden sm:block'>
             My educational background, combined with my hands-on experience in programming languages <br/>such as React, JavaScript, Python, Java and Next.js, has equipped me with a solid foundation in computer science principles and the ability to adapt to new technologies quickly.<br/><br/>
             Thank you for taking the time to learn about me. I eagerly anticipate the possibility of working together and contributing to the advancement of software development.<br/>
-            </p>  
+            </p>
           </div>
         </div>
     </div>
