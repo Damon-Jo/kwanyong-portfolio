@@ -27,3 +27,7 @@
         hsal(242, 74%, 61%, 0.8)
     )
 }
+
+.work-btn:active {
+    transform: translateY(4px);
+}

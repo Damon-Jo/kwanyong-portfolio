@@ -1,5 +1,3 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
 import LetsPack from '../assets/projects/letspack.png'
 import Instagram from '../assets/projects/instagram.png'
 import Portfolio from '../assets/projects/portfolio.png'
