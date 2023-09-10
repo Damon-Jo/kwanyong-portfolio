@@ -1,6 +1,7 @@
 import LetsPack from '../assets/projects/letspack.png'
 import Instagram from '../assets/projects/instagram.png'
 import Portfolio from '../assets/projects/portfolio.png'
+import Camping from '../assets/projects/camping.jpg'
 
 export const data=[
     {
@@ -24,6 +25,13 @@ export const data=[
         github:"https://github.com/Damon-Jo/kwanyong-portfolio",
         live:"https://kwanyong-damon-app.herokuapp.com/",
     },
+    {
+        id:4,
+        name:"JS Application",
+        image:Camping,
+        github:"https://github.com/Damon-Jo/camping_app",
+        live:"https://camping-review-app-8b2de906556a.herokuapp.com/",
+    }
 
 
 ]
