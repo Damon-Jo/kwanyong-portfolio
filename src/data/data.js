@@ -7,10 +7,11 @@ export const data=[
     {
         id:1,
         name:"JS Application",
-        image:LetsPack,
-        github:"https://github.com/djooyang/COMP-2800-Team-BBY-13-LetsPack",
-        live:"https://lets-pack.herokuapp.com/",
+        image:Camping,
+        github:"https://github.com/Damon-Jo/camping_app",
+        live:"https://camping-review-app-8b2de906556a.herokuapp.com/",
     },
+
     {
         id:2,
         name:"Django Application",
@@ -20,18 +21,19 @@ export const data=[
     },
     {
         id:3,
+        name:"JS Application",
+        image:LetsPack,
+        github:"https://github.com/djooyang/COMP-2800-Team-BBY-13-LetsPack",
+        live:"https://lets-pack.herokuapp.com/",
+    },
+    {
+        id:4,
         name:"React Application",
         image:Portfolio,
         github:"https://github.com/Damon-Jo/kwanyong-portfolio",
         live:"https://kwanyong-damon-app.herokuapp.com/",
-    },
-    {
-        id:4,
-        name:"JS Application",
-        image:Camping,
-        github:"https://github.com/Damon-Jo/camping_app",
-        live:"https://camping-review-app-8b2de906556a.herokuapp.com/",
     }
+
 
 
 ]
